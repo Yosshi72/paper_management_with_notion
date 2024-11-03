@@ -1,0 +1,2 @@
+# paper_management_with_notion
+論文をnotionで管理するためのツール
